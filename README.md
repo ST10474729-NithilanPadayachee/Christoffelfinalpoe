@@ -35,5 +35,12 @@ Changelog
 
 > Set explicit color values for picker items (#f5e9d7) to maintain text readability when the dropdown menu opens, preventing the default system colors from clashing with the custom theme
 
+Color Scheme
+The app features a warm, inviting color palette that reflects the cozy atmosphere of a cafe. T
+he primary background uses rich burgundy tones (#f81e51ff) with complementary card backgrounds in coral shades (#e66845ff). 
+Text appears in a soft cream color (#f5e9d7) for excellent readability, while accent colors in pink and red tones (#f36a8cff, #f3604fff) highlight interactive elements. 
+Input fields use dark brown backgrounds (#2b221f) with subtle borders (#3a302d) to maintain visual hierarchy.
+
+
 
 
